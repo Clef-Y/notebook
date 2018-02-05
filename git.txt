@@ -5,7 +5,7 @@ Creation-Date: 2018-02-03T20:30:11+00:00
 ====== git ======
 Created Saturday 03 February 2018
 
-[[https://stackoverflow.com/questions/783811/getting-git-to-work-with-a-proxy-server|Getting git to work with a proxy server]]
+##[[https://stackoverflow.com/questions/783811/getting-git-to-work-with-a-proxy-server|Getting git to work with a proxy server]]
 
 git config --global http.proxy http://proxyuser:proxypwd@proxy.server.com:8080
 
@@ -26,3 +26,8 @@ Command to use:
 	
 Finally, to check the currently set proxy:	
 	//git config --global --get http.proxy//
+
+##[[https://stackoverflow.com/questions/4565700/specify-private-ssh-key-to-use-when-executing-shell-command|Specify private SSH-key to use when executing shell command]]
+
+
+
