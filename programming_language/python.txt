@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-02-07T10:55:42+00:00
+
+====== python ======
+Created Wednesday 07 February 2018
+
+[[https://www.python.org/doc/essays/cp4e/|Computer Programming for Everybody]]
