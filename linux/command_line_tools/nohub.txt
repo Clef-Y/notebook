@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-02-07T09:51:46+00:00
+
+====== nohub ======
+Created Wednesday 07 February 2018
+
+##[[https://stackoverflow.com/questions/10408816/how-do-i-use-the-nohup-command-without-getting-nohup-out|How do I use the nohup command without getting nohup.out?]]
+
+ nohup command >/dev/null 2>&1   # doesn't create nohup.out
+
+ nohup command >/dev/null 2>&1 & # runs in background, still doesn't create nohup.out
+
+nohup command </dev/null >/dev/null 2>&1 & # completely detached from terminal 
