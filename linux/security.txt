@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-02-07T10:27:19+00:00
+
+====== security ======
+Created Wednesday 07 February 2018
+
+known security problem, password leaked. How it leaked?
