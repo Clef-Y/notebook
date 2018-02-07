@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-02-07T16:17:51+00:00
+
+====== debian kernel ======
+Created Wednesday 07 February 2018
+
+https://anonscm.debian.org/cgit/kernel/linux.git/log/
