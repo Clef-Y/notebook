@@ -11,3 +11,5 @@ im-config  -> fcitix-diagnose -> modify profile
 
 [[https://github.com/rime/rime-emoji|emoji]]: Miscellaneous Symbols and Pictographs ->  [[https://en.wikipedia.org/wiki/Emoji|apt-get install fonts-symbola]] 
 
+
+unresolved problem: fcitix can't type chinese in pycharm
