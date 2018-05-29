@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-05-28T22:34:45+08:00
+
+====== Java 8 Tutorials ======
+Created Monday 28 May 2018
+
+[[https://www.mkyong.com/tutorials/java-8-tutorials/|Java 8 Tutorials]]
+[[https://www.mkyong.com/java/how-to-install-oracle-jdk-8-on-debian/|How to Install Oracle JDK 8 On Debian]]

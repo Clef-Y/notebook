@@ -1,0 +1,7 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-05-29T17:18:10+08:00
+
+====== Inner Class ======
+Created Tuesday 29 May 2018
+
